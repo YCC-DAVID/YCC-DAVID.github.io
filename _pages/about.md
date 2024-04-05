@@ -27,11 +27,11 @@ redirect_from:
 # 📖 Educations
 - *2022.08 - 2024.05 (now)*,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Columbus Ohio United State
 
-  Master student in ECE, Ohio State University
+  Master student in ECE @ The Ohio State University
   
 - *2017.09 - 2021.06*, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Xi'an Shaanxi China
 
-  Undergraduate student in ECE, Chang'an University(长安大学)
+  Undergraduate student in ECE @ Chang'an University(长安大学)
 
 # 💻 Internships
 - *2019.05 - 2019.07*,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fuzhou, China
