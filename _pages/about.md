@@ -29,14 +29,11 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 - None
 # 📖 Educations
-- *2022.08 - 2024.05 (now)* Columbus Ohio United State
-- Master student in ECE, Ohio State University
-- *2017.09 - 2021.06*, Xi'an Shaanxi China
-- Undergraduate student in ECE, Chang'an University(长安大学)
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.08 - 2024.05 (now)*   Columbus Ohio United State
+   Master student in ECE, Ohio State University
+- *2017.09 - 2021.06*   Xi'an Shaanxi China
+   Undergraduate student in ECE, Chang'an University(长安大学)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2019.07*, Fuzhou, China
+- Assitant Engineer, Fuzhou BOE Optoelectronic Technology Co.LTD.
