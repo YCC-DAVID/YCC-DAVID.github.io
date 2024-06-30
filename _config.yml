@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings    
-title                    : "Chence Yang    (杨陈策)"
+title                    : "Chence Yang (杨陈策)"
 description              : "Here is chence's personel page, for current just for the test target "
 repository               : "YCC-DAVID/ycc-david.github.io"
 google_scholar_stats_use_cdn : False
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author  
 author:
-  name             : "Chence Yang\n(杨陈策)"
+  name             : "Chence Yang    (杨陈策)"
   avatar           : "images/avtar.jpg"
   bio              : "The Ohio State University"
   location         : "Columbus, United States"
