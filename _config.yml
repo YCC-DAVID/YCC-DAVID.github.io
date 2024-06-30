@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings    
-title                    : "Chence Yang (杨陈策) - Homepage"
+title                    : "Chence Yang (杨陈策)"
 description              : "Here is chence's personel page, for current just for the test target "
 repository               : "YCC-DAVID/ycc-david.github.io"
 google_scholar_stats_use_cdn : False
