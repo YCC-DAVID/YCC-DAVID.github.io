@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author  
 author:
-  name             : "Chence Yang(杨陈策)"
+  name             : "Chence Yang\n(杨陈策)"
   avatar           : "images/avtar.jpg"
   bio              : "The Ohio State University"
   location         : "Columbus, United States"
