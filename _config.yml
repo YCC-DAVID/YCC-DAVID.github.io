@@ -20,7 +20,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author  
-author:                        
+author:
   name             : "Chence Yang(杨陈策)"             
   avatar           : "images/avtar.jpg"
   bio              : "The Ohio State University"
