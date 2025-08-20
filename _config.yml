@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chence Yang \t (杨陈策)"
   avatar           : "images/avtar.jpg"
-  bio              : "The Ohio State University"
-  location         : "Columbus, United States"
+  bio              : "University of Georgia"
+  location         : "Athens,Georgia,United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yang.6642@osu.edu"
+  email            : "cy65664@uga.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
