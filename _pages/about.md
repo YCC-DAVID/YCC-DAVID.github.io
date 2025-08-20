@@ -19,13 +19,18 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉Join University of Georgia School of computing as a PhD student.
 - *2024.05*: &nbsp;🎉🎉Graduate from Ohio State University, ECE Department for Master degree.
 - *2021.06*: &nbsp;🎉🎉Graduate from Chang'an University, for Bacholer.
 
 # 📝 Publications 
 - None
 # 📖 Educations
-- *2022.08 - 2024.05 (now)*,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Columbus, Ohio United State
+- *2025.08 - now     *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
+
+  PhD student in CS @ University of Georgia
+  
+- *2022.08 - 2024.05 *,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Columbus, Ohio United State
 
   Master student in ECE @ The Ohio State University
   
