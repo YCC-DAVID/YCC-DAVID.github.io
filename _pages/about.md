@@ -24,7 +24,6 @@ redirect_from:
 - *2021.06*: &nbsp;🎉🎉Graduate from Chang'an University, for Bacholer.
 
 # 📝 Publications 
-## 📝 Publications
 
 <div class="my-publications">
 
