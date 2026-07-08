@@ -411,69 +411,78 @@
   text-transform: uppercase;
 }
 /* ===============================
-   Publications Section
+   My Publications Section
    =============================== */
 
-.publication-list {
-  max-width: 900px;
-  margin-top: 24px;
+.my-publications {
+  margin-top: 1.5rem;
+  max-width: 1000px;
 }
 
-.publication {
-  margin-bottom: 26px;
-  padding-bottom: 6px;
+.my-publication {
+  margin-bottom: 1.8rem !important;
+  padding: 1.2rem 1.4rem !important;
+  border: 1px solid #e6e8ef !important;
+  border-radius: 12px !important;
+  background: #ffffff !important;
 }
 
-.pub-title {
-  font-size: 18px;
-  font-weight: 600;
-  color: #1772d0;
-  line-height: 1.35;
-  margin-bottom: 5px;
+.my-publication:last-child {
+  margin-bottom: 0 !important;
 }
 
-.pub-authors {
-  font-size: 15px;
-  color: #444;
-  line-height: 1.45;
-  margin-bottom: 4px;
-}
-
-.pub-venue {
-  font-size: 15px;
-  color: #666;
-  font-style: italic;
-  line-height: 1.45;
-}
-
-.pub-title:hover {
-  text-decoration: underline;
-}
-
-/* Mobile-friendly layout */
-@media (max-width: 700px) {
-  .publication-list {
-    max-width: 100%;
-  }
-
-  .pub-title {
-    font-size: 17px;
-  }
-
-  .pub-authors,
-  .pub-venue {
-    font-size: 14px;
-  }
-}
 .my-pub-tag {
-  display: inline-block;
-  margin-bottom: 0.55rem;
-  padding: 0.25rem 0.65rem;
-  border-radius: 0.35rem;
-  background: #eef3ff;
-  color: #1f5cff;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+  display: inline-block !important;
+  margin-bottom: 0.65rem !important;
+  padding: 0.25rem 0.7rem !important;
+  border-radius: 0.35rem !important;
+  background: #eef3ff !important;
+  color: #1f5cff !important;
+  font-size: 0.78rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+}
+
+.my-pub-title {
+  margin: 0 0 0.35rem 0 !important;
+  font-size: 1.08rem !important;
+  font-weight: 700 !important;
+  line-height: 1.35 !important;
+  color: #111827 !important;
+}
+
+.my-pub-authors {
+  margin: 0 0 0.35rem 0 !important;
+  font-size: 0.98rem !important;
+  line-height: 1.45 !important;
+  color: #4b5563 !important;
+}
+
+.my-pub-venue {
+  margin: 0 !important;
+  font-size: 0.95rem !important;
+  line-height: 1.45 !important;
+  color: #6b7280 !important;
+  font-style: normal !important;
+}
+
+.my-pub-authors strong {
+  font-weight: 700 !important;
+  color: #111827 !important;
+}
+
+@media (max-width: 700px) {
+  .my-publication {
+    padding: 1rem !important;
+  }
+
+  .my-pub-title {
+    font-size: 1rem !important;
+  }
+
+  .my-pub-authors,
+  .my-pub-venue {
+    font-size: 0.9rem !important;
+  }
 }
