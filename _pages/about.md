@@ -24,33 +24,93 @@ redirect_from:
 - *2021.06*: &nbsp;🎉🎉Graduate from Chang'an University, for Bacholer.
 
 # 📝 Publications 
-<div class="pub-card">
-  <div class="pub-img">
-    <img src="/images/your-paper-image.png" alt="Paper thumbnail">
-  </div>
+<section id="publications">
+  <h2>Selected Publications</h2>
 
-  <div class="pub-content">
-    <div class="pub-venue">Conference / Journal 2026</div>
-
-    <div class="pub-title">
-      Your Paper Title Goes Here
-    </div>
-
-    <div class="pub-authors">
-      <strong>Chence Yang</strong>, Coauthor A, Coauthor B
-    </div>
-
-    <div class="pub-desc">
-      One-sentence description of your paper, project, or research contribution.
-    </div>
-
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/xxxx.xxxxx">PDF</a>
-      <a href="https://github.com/YCC-DAVID/your-repo">Code</a>
-      <a href="https://your-project-page.com">Project</a>
+  <div class="publication">
+    <div class="pub-info">
+      <div class="pub-title">
+        Rethinking the Potential of Layer Freezing for DNN Training Efficiency
+      </div>
+      <div class="pub-authors">
+        <b>Chence Yang</b>, N Cheng, C Zhang, L Lu, Q Tan, S Li, A Li, X Tang, S Huang, ...
+      </div>
+      <div class="pub-venue">
+        Proceedings of the Great Lakes Symposium on VLSI, 2026, 772–778
+      </div>
     </div>
   </div>
-</div>
+
+  <div class="publication">
+    <div class="pub-info">
+      <div class="pub-title">
+        Towards memory-efficient and sustainable machine unlearning on edge using zeroth-order optimizer
+      </div>
+      <div class="pub-authors">
+        C Zhang, <b>Chence Yang</b>, Q Tan, J Liu, A Li, Y Wang, J Lu, J Wang, G Yuan
+      </div>
+      <div class="pub-venue">
+        Proceedings of the Great Lakes Symposium on VLSI, 2025, 227–232
+      </div>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="pub-info">
+      <div class="pub-title">
+        Perturbation-efficient zeroth-order optimization for hardware-friendly on-device training
+      </div>
+      <div class="pub-authors">
+        Q Tan, SE Chang, R Xia, H Ji, <b>Chence Yang</b>, C Zhang, J Liu, Z Zhan, Z Fang, ...
+      </div>
+      <div class="pub-venue">
+        IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2025
+      </div>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="pub-info">
+      <div class="pub-title">
+        A CMOS Compatible Energy Efficient 6T NV-SRAM Based Accelerator Employing Binary Neural Networks in 22 nm FDSOI Technology
+      </div>
+      <div class="pub-authors">
+        UH Irin, MM Azmir, MR Sarkar, <b>Chence Yang</b>, G Yuan, Y Yi, J Wang
+      </div>
+      <div class="pub-venue">
+        IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2025
+      </div>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="pub-info">
+      <div class="pub-title">
+        A measurement method considering both phase noise and full frequency stability
+      </div>
+      <div class="pub-authors">
+        W Zhou, M Miao, H Liu, <b>Chence Yang</b>, B Qu
+      </div>
+      <div class="pub-venue">
+        Sensors &amp; Transducers, 254(7), 22–30, 2021
+      </div>
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="pub-info">
+      <div class="pub-title">
+        Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models
+      </div>
+      <div class="pub-authors">
+        C Zhang, Z Ding, <b>Chence Yang</b>, J Liu, X Zhai, S Huang, B Li, X Ma, J Lu, G Yuan
+      </div>
+      <div class="pub-venue">
+        Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026
+      </div>
+    </div>
+  </div>
+</section>
 
 # 📖 Educations
 - *2025.08 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
