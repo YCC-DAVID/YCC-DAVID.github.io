@@ -24,6 +24,33 @@ redirect_from:
 - *2021.06*: &nbsp;🎉🎉Graduate from Chang'an University, for Bacholer.
 
 # 📝 Publications 
+<div class="pub-card">
+  <div class="pub-img">
+    <img src="/images/your-paper-image.png" alt="Paper thumbnail">
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-venue">Conference / Journal 2026</div>
+
+    <div class="pub-title">
+      Your Paper Title Goes Here
+    </div>
+
+    <div class="pub-authors">
+      <strong>Chence Yang</strong>, Coauthor A, Coauthor B
+    </div>
+
+    <div class="pub-desc">
+      One-sentence description of your paper, project, or research contribution.
+    </div>
+
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/xxxx.xxxxx">PDF</a>
+      <a href="https://github.com/YCC-DAVID/your-repo">Code</a>
+      <a href="https://your-project-page.com">Project</a>
+    </div>
+  </div>
+</div>
 
 # 📖 Educations
 - *2025.08 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
