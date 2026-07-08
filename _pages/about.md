@@ -24,17 +24,17 @@ redirect_from:
 - *2021.06*: &nbsp;🎉🎉Graduate from Chang'an University, for Bacholer.
 
 # 📝 Publications 
-- None
+
 # 📖 Educations
-- *2025.08 - now     *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
+- *2025.08 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
 
-  PhD student in CS @ University of Georgia
+  PhD student in School of Computing @ University of Georgia
   
-- *2022.08 - 2024.05 *,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Columbus, Ohio United State
+- *2022.08 - 2024.05* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Columbus, Ohio United State
 
-  Master student in ECE @ The Ohio State University
+  Master student in Electrical and Computing Engineering @ The Ohio State University
   
-- *2017.09 - 2021.06*, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Xi'an, Shaanxi China
+- *2017.09 - 2021.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Xi'an, Shaanxi China
 
   Undergraduate student in ECE @ Chang'an University(长安大学)
 
