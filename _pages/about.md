@@ -26,7 +26,7 @@ redirect_from:
 # 📝 Publications 
 
 # 📖 Educations
-- *2025.08 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
+- *2025.08 - now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Athens, Georgia United State
 
   PhD student in School of Computing @ University of Georgia
   
