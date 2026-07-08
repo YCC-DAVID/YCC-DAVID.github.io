@@ -19,6 +19,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉My paper is accepted to GLSVLSI 2026.
+- *2026.02*: &nbsp;🎉🎉Our paper is accepted to CVPR 2026.
 - *2025.08*: &nbsp;🎉🎉Join University of Georgia School of computing as a PhD student.
 - *2024.05*: &nbsp;🎉🎉Graduate from Ohio State University, ECE Department for Master degree.
 - *2021.06*: &nbsp;🎉🎉Graduate from Chang'an University, for Bacholer.
