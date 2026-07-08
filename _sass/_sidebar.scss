@@ -268,3 +268,13 @@
     display: none;
   }
 }
+.author__name {
+  line-height: 1.15 !important;
+}
+
+.author__name-cn {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.82em;
+  font-weight: 600;
+}
