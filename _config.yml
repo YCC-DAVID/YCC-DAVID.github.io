@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author  
 author:
-  name             : "Chence Yang \n \t (杨陈策)"
+  name             : "Chence Yang<br><span class='author__name-cn'>杨陈策</span>"
   avatar           : "images/avtar.jpg"
   bio              : "University of Georgia"
   location         : "Athens,Georgia,United States"
